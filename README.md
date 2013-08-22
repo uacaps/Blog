@@ -1,4 +1,4 @@
-![ScreenShot](https://raw.github.com/uacaps/Blog/master/Resources/github_techblog-01.png)
+![ScreenShot](https://raw.github.com/uacaps/Blog/master/Resources/github_techblog.png)
 
 Description and intention here.
 
