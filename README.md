@@ -1,7 +1,7 @@
-CAPSBlog
+Gtihub Blog
 ========
 
-The official tech blog of the Center for Advanced Public Safety.
+Description and intention here.
 
 
 Recent Posts
