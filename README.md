@@ -14,7 +14,7 @@ NSLog(@"%@", loremIpsum);
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus venenatis congue. Duis rhoncus consequat feugiat. 
 
-**Posted** - *Tuesday 14th August, 2013*
+**Posted** - *Wednesday 14th August, 2013*
 
 --------------------
 
