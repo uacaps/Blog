@@ -1,19 +1,5 @@
-CAPSBlog
-========
+### [Sample Post 1](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_13)
 
-The official tech blog of the Center for Advanced Public Safety.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus venenatis congue. Duis rhoncus consequat feugiat. Pellentesque lacinia quam at iaculis aliquet. Praesent ac imperdiet elit. Morbi enim nunc, faucibus vitae massa at, vehicula consectetur ipsum. Ut commodo felis urna, et mollis eros vulputate et. Ut laoreet, risus non vulputate congue, tellus mi fringilla dolor, vel blandit risus odio non dui. Curabitur in dolor lorem. Ut et elit justo.
 
-
-Recent Posts
-========
-
-### [Motion Gesture Recognizers](http://www.google.com)
-
-
-asdf asdf asdfas dfas df asdf asdf 
-asdfasd fasdf asdf asdf asdf aasd asdf asdf asdf asdf asdf asdf 
-asd
-f as
-df asdfasdf asdf asdf asdf asdf asdf asdf 
-
-**Posted** - *Tuesday 13th August, 2007*
+**Posted** - *Tuesday 13th August, 2013*
