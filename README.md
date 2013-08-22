@@ -1,4 +1,4 @@
-![ScreenShot](https://raw.github.com/uacaps/Blog/master/Resources/github_techblog.png)
+![ScreenShot](https://raw.github.com/uacaps/Blog/1939fe6cca28adea7ad92269fba86acd585f24f2/Resources/github_techblog.png)
 
 
 Recent Posts
