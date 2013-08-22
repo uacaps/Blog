@@ -1,6 +1,8 @@
 Gtihub Blog
 ========
 
+![ScreenShot](https://raw.github.com/uacaps/Blog/master/Resources/github_techblog-01.png)
+
 Description and intention here.
 
 
