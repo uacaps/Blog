@@ -1,7 +1,5 @@
 ![ScreenShot](https://raw.github.com/uacaps/Blog/master/Resources/github_techblog.png)
 
-Description and intention here.
-
 
 Recent Posts
 ========
