@@ -58,6 +58,10 @@ Everyone knows how powerful Github is for hosting code and sharing it with peopl
 
 This just allows you to copy and paste this blurb and add that to the **Recent Posts** section of your frontpage README without doing too much extra work to get something nice to add.
 
+##### Spread the Word
+
+So that's all it takes to make your own tech blog, courtesy of Github. We're looking forward to seeing what everyone does with their forks. Enjoy!
+
 ##### Great Links
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - adam-p
