@@ -4,7 +4,7 @@
 Recent Posts
 ========
 
-### [Building a Github Blog](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_14)
+### [Building a Github Blog](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_14_Building_A_Github_Blog)
 
 Everyone knows how powerful Github is for hosting code and sharing it with people from all around the world, but wouldn't it be nice to have a place in everyone's list of repositories to bring some sanity and personality to their contributions? What if that place could be a reposity itself? How meta...
 
@@ -13,7 +13,7 @@ Everyone knows how powerful Github is for hosting code and sharing it with peopl
 
 --------------------
 
-### [About Us](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_13)
+### [About Us](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_13_About_Us)
 
 The Center for Advanced Public Safety (CAPS) is a unit within the University of Alabama that specializes in advanced software development to assist traffic safety, law enforcement and homeland security.
 
@@ -27,7 +27,7 @@ Created by
 
 --------------------
 
-### [License](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_12)
+### [License](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_12_License)
 
 Copyright (c) 2012 The Board of Trustees of The University of Alabama
 All rights reserved.
