@@ -1,4 +1,5 @@
-### [About Us](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_13)
+About Us
+=============
 
 The Center for Advanced Public Safety (CAPS) is a unit within the University of Alabama that specializes in advanced software development to assist traffic safety, law enforcement and homeland security.
 
