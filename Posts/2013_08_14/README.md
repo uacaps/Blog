@@ -5,7 +5,7 @@ Everyone knows how powerful Github is for hosting code and sharing it with peopl
 
 So, we decided to do just that!  
 
-**To start your own blog, just fork this reposity.** 
+**To start your own blog, just [fork](https://github.com/uacaps/Blog/fork) this reposity.** 
 
 =========
 
