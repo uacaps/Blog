@@ -31,5 +31,8 @@ The posts directory has subdirectories ordered chronologically. If you want to c
 
 An ambitious individual might take the time to write a blurb for the front page that links back internallly to the blog post they just created. Let us be clear that **we are not that ambitious**. To generate a blurb for the front page, run the ruby script <code>blurb.rb</code> found in the top level of your repository. This ruby script will generate a blurb in your terminal that you may copy paste into your front page readme with the internal link to your post generated for you.
 
+##### Great Links
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - adam-p
 
 **Posted** - *Wednesday 14th August, 2013*
