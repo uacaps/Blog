@@ -66,6 +66,7 @@ else
   title = ""
   blurb = ""
   i = -1
+  updatedDate = File.mtime(path)
 	File.readlines(path).each do |line|
     i += 1
     if i == 0
@@ -83,9 +84,7 @@ else
   path.sub! '/README.md', ''
   url = "https://github.com/" + user + "/" + (repo ? repo : "Blog") + "/tree/master/" + path
   formatURL = "### [" + title + "](" + url + ")"
-  path.sub! "Posts/",  ""
-  pDate = DateTime.strptime(path, '%Y_%m_%d')
-  postDateString = pDate.strftime('%A %e %B, %Y')
+  postDateString = updatedDate.strftime('%A %e %B, %Y')
 
   / Output /
   puts
@@ -96,7 +95,7 @@ else
 	puts 
   puts blurb
 	puts
-  puts "**Posted** - *" + postDateString +"*"
+  puts "**Updated** - *" + postDateString +"*"
   puts
 	puts '///////////////////////////////////////'
   puts
