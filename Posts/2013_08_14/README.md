@@ -62,7 +62,7 @@ This just allows you to copy and paste this blurb and add that to the **Recent P
 
 So that's all it takes to make your own tech blog, courtesy of Github. We're looking forward to seeing what everyone does with their forks. Enjoy!
 
-##### Great Links
+##### Helpful Links
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - adam-p
 
