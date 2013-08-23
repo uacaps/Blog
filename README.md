@@ -4,15 +4,10 @@
 Recent Posts
 ========
 
-### [Sample Post 2](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_14)
+### [Building a Github Blog](https://github.com/uacaps/Blog/tree/master/Posts/2013_08_14)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus venenatis congue. Duis rhoncus consequat feugiat. Pellentesque lacinia quam at iaculis aliquet. Praesent ac imperdiet elit. Morbi enim nunc, faucibus vitae massa at, vehicula consectetur ipsum. Ut commodo felis urna, et mollis eros vulputate et. Ut laoreet, risus non vulputate congue, tellus mi fringilla dolor, vel blandit risus odio non dui. Curabitur in dolor lorem. Ut et elit justo.
+Everyone knows how powerful Github is for hosting code and sharing it with people from all around the world, but wouldn't it be nice to have a place in everyone's list of repositories to bring some sanity and personality to their contributions? What if that place could be a reposity itself? How meta...
 
-```objc
-NSLog(@"%@", loremIpsum);
-```
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus venenatis congue. Duis rhoncus consequat feugiat. 
 
 **Posted** - *Wednesday 14th August, 2013*
 
